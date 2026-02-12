@@ -1,6 +1,6 @@
 # Doctor Appointment System 🏥
 
-[![GitHub Profile](https://github.com/Ketan9548)
+[![GitHub Profile](https://github.com/KetanChauhan21)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?logo=vercel&logoColor=white)](https://portfolio-1-mf6l.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/ketan-chauhan-82056021a)
 
