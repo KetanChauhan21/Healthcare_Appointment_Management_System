@@ -1,0 +1,16 @@
+symptoms,disease
+"['fever', 'cough', 'fatigue', 'sore throat']",Common Cold
+"['chest pain', 'shortness of breath', 'nausea']",Heart Disease
+"['blurred vision', 'excessive thirst', 'frequent urination']",Diabetes
+"['headache', 'sensitivity to light', 'nausea']",Migraine
+"['joint pain', 'rash', 'fever']",Dengue
+"['abdominal pain', 'vomiting', 'diarrhea']",Food Poisoning
+"['wheezing', 'chest tightness', 'shortness of breath']",Asthma
+"['itchy skin', 'red eyes', 'sneezing']",Allergic Rhinitis
+"['back pain', 'painful urination', 'fever']",Urinary Tract Infection
+"['stiff neck', 'headache', 'fever']",Meningitis
+"['fatigue', 'hair loss', 'weight gain']",Hypothyroidism
+"['red skin rash', 'itchy blisters', 'fever']",Chickenpox
+"['runny nose', 'sneezing', 'itchy eyes']",Allergies
+"['high fever', 'body aches', 'chills']",Influenza (Flu)
+"['difficulty swallowing', 'heartburn', 'chest pain']",Acid Reflux
